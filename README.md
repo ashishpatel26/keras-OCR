@@ -1,4 +1,4 @@
-# OCR-
+# OCR
 After git clone, you will have text.png,my_model.h5,image_ocr.py,keras_ocr.ipynb
 
 1.train data:python image_ocr.py 
